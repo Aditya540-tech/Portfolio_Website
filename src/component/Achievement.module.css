@@ -1,0 +1,14 @@
+.link {
+  display: flex;
+}
+
+.achivementTitle {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 10px 0px 0px 10px;
+}
+
+.achievementIcons {
+  margin-left: 5%;
+  font-size: 20px;
+}

@@ -1,0 +1,39 @@
+.container {
+  /* background-image: url("./0_6x7soxgALSibn7zS.jpg"); */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./0_6x7soxgALSibn7zS.jpg");
+  background-size: cover;
+  height: 679px;
+  background-color: #f0f0f0;
+  filter: 1;
+}
+
+.heading {
+  padding: 100px 30px;
+  color: white;
+  width: 480px;
+}
+
+.middleLastName {
+  font-weight: 1000;
+  font-size: 40px;
+}
+
+.role {
+  font-size: 20px;
+  font-weight: 100;
+}
+.buttonContainer {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  padding: 10px 40px;
+  margin-right: 40px;
+  border-radius: 20.5px;
+  font-size: 18px;
+}

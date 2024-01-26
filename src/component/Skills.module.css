@@ -1,0 +1,18 @@
+/* .mainContainer {
+  height: 200px;
+  width: 400px;
+} */
+.container {
+  margin: 20px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  /* border: 2px solid red; */
+}
+
+.container img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}

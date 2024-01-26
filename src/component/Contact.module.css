@@ -1,0 +1,36 @@
+.container {
+  background-image: linear-gradient(
+      rgba(18, 18, 18, 0.5),
+      rgba(24, 23, 23, 0.5)
+    ),
+    url("./contact-us-background-2.jpg");
+  background-size: cover;
+  height: 679px;
+  color: white;
+
+  /* align-items: center; */
+}
+
+.subContainer {
+  padding: 70px 0px 0px 160px;
+}
+
+.subContainer h1 {
+  font-size: 40px;
+}
+.subContainer p {
+  font-size: 20px;
+}
+
+.objective {
+  margin: 120px 0px 0px 160px;
+  width: 40%;
+}
+
+.objective p {
+  font-size: 20px;
+}
+
+.location {
+  margin: 140px 0px 0px 300px;
+}
